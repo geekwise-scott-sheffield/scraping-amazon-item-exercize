@@ -1,0 +1,12 @@
+{
+  "name"        : "node-web-scraper",
+  "version"     : "0.0.1",
+  "description" : "scraping the web",
+  "main"        : "server.js",
+  "author"      : "scott sheffield",
+  "dependencies": {
+    "express"   : "latest",
+    "request"   : "latest",
+    "cheerio"   : "latest"
+  }
+}
